@@ -1,0 +1,6 @@
+{
+  "name": "CLR",
+  "description": "Smart File Manager with AI File Converter (Image, PDF, Video & Audio), Secret Vault, Cloud Sync, Maps, Hindi Calendar & Voice AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
